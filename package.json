@@ -9,8 +9,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Matteo Collina <hello@matteocollina.com>",
   "license": "ISC",
+  "website": "https://github.com/mcollina/autocow",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcollina/autocow.git"
+  },
+  "bugs": {
+    "url": "http://github.com/mcollina/autocow/issues"
+  },
   "dependencies": {
     "cows": "^0.1.0",
     "unique-random-array": "^1.0.0"
